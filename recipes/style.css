@@ -1,0 +1,16 @@
+.contents {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1, h2 {
+    color: orange;
+}
+
+ul {
+    background-color: orange;
+    font-weight: 600;
+}
+
+ol {
+    background-color: lightblue;
+}
